@@ -1,1 +1,2 @@
 # DSL-Detection using LSTM-Deep learning model & Computer Vision
+This project focuses on enhancing communication accessibility for the Bhutanese DSL community. Using computer vision and an LSTM model, we developed a system to detect DSL signs via webcam. Our model achieved 96% accuracy, demonstrating effective sign detection with minimal data. This project aims to bridge communication gaps and promote inclusivity for DSL users.
