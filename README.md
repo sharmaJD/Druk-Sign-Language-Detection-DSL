@@ -1,1 +1,1 @@
-# Druk-Sign-Language-Detection-DSL-
+# DSL-Detection using LSTM-Deep learning model & Computer Vision
